@@ -1,14 +1,14 @@
-# LagrichMohamed.github.io
+# kayansama.github.io
 
 Developer website for **Kids Coloring Book : Paint** (`com.kidscoloringbook.fun`).
 
 ## AdMob app-ads.txt
 
-https://lagrichmohamed.github.io/app-ads.txt
+https://kayansama.github.io/app-ads.txt
 
 Set **Google Play Console → Website** to:
 
-https://lagrichmohamed.github.io
+https://kayansama.github.io
 
 ## Privacy policy
 
